@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # other files
-.hdf5
-.csv
+*.hdf5
+*.csv
+*.png

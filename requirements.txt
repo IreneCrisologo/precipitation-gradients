@@ -1,6 +1,5 @@
 wradlib
 pandas
-pytables
 jupyter
 gdal
 xarray

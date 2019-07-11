@@ -1,7 +1,6 @@
 wradlib
 pandas
 jupyter
-gdal
 xarray
 netCDF4
 xmltodict

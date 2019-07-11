@@ -4,6 +4,7 @@ jupyter
 xarray
 netCDF4
 xmltodict
+numpy
 arm_pyart
 cartopy
 boto3

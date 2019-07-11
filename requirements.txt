@@ -1,0 +1,12 @@
+wradlib
+pandas
+pytables
+jupyter
+gdal
+xarray
+netCDF4
+xmltodict
+arm_pyart
+cartopy
+boto3
+hdf5

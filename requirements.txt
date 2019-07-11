@@ -1,10 +1,11 @@
 wradlib
 pandas
+pytables
 jupyter
+gdal
 xarray
 netCDF4
 xmltodict
-numpy
 arm_pyart
 cartopy
 boto3

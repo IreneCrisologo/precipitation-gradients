@@ -1,0 +1,27 @@
+name: saveur-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-fuzzy
+  - pandas
+  - pytables
+  - gdal
+  - xarray
+  - hdf5
+  - netCDF4
+  - xmltodict
+  - arm_pyart
+  - cartopy
+  - boto3
+  - basemap
+  - jupyter
+  - notebook
+  - metpy
+  - wradlib
+  - pip:
+    - git+https://github.com/tjlang/SkewT.git
+    - git+https://github.com/CSU-Radarmet/CSU_RadarTools.git
+    - git+https://github.com/joshua-wx/PyHail.git
